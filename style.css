@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    border: 3px solid blueviolet;
+    text-align: center;
+
+}
+#titulo {
+    color: greenyellow;
+    font-size: 50px;
+}
+
+#pika {
+    width: 200px;
+}
+
+
+#subti {
+    color: greenyellow;
+}
+
+#poke {
+    color: greenyellow;
+    font-size: 20px;
+}
